@@ -13,9 +13,15 @@
   }
   .blog-category-button:hover{
     color: #005EB8;
-    background-color: #efe3e3ec;
+    background-color: #ccdbe3;
   }
   .blog-category-button-active{
+    background-color: #005EB8;
+    color: #E9F5FC;
+    padding: 8px 14px;
+    margin-right: 5px;
+  }
+  .blog-category-button-active:hover{
     background-color: #005EB8;
     color: #E9F5FC;
     padding: 8px 14px;
